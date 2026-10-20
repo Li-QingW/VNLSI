@@ -1,2 +1,2 @@
 # VNLSI
-Thanks for your attention! This code will be made public as soon as the relevant paper is published.
+Thanks for your attention! This benchmark dataset will be made public as soon as the relevant paper is published.
